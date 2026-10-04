@@ -1,0 +1,6 @@
+{
+  "name": "Vale — Scented Candles",
+  "description": "A single-screen full-viewport interactive hero experience for Vale, a premium scented-candle brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
